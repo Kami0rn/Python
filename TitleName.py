@@ -14,13 +14,11 @@ for i in range(0,num) :
     lst.append(nm)
     cnt += 1
 
-j=0
-my = ""
+#j=0
 #for i in lst :
     #print (lst[j])
 for x in lst:
-    my = " "+x
-    print (my.title())
+    print (x.title())
 
 j+=1
 
