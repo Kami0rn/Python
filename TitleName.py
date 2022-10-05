@@ -1,7 +1,7 @@
 from ast import If, While
 
 while True :
-    num = int (input("Please input number (5-9)"))
+    num = int (input("Please input number (2-9)"))
     if num<=9 and num>=2 :
         break
     else :
